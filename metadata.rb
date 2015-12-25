@@ -1,0 +1,7 @@
+name             'sonar'
+maintainer       'Andrew Hoffmann'
+maintainer_email 'andrew.hoffmann.wi@gmail.com'
+license          'All rights reserved'
+description      'Installs/Configures sonar'
+long_description 'Installs/Configures sonar'
+version          '0.1.0'
