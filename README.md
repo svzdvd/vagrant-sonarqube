@@ -39,3 +39,7 @@ sonar.password = "admin"
 
 This repository uses Chef Solo to provision the Vagrant-managed virtual machine. It uses 
 Berkshelf to pull in community cookbooks for SonarQube, MySQL, Java, and more.
+
+* [SonarQube cookbook](https://supermarket.chef.io/cookbooks/sonarqube)
+* [MySQL cookbook](https://supermarket.chef.io/cookbooks/mysql)
+* [Database cookbook](https://supermarket.chef.io/cookbooks/database)
