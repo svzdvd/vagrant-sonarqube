@@ -1,4 +1,4 @@
-# SonaQube Server with MySQL
+# SonarQube Server with MySQL
 
 This repository uses Vagrant and Chef to install [SonarQube](http://www.sonarqube.org/) onto a 
 local virtual machine. It also installs MySQL as the database for SonarQube.
