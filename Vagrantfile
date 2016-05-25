@@ -82,6 +82,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   # config.berkshelf.except = []
 
   config.vm.provision :chef_solo do |chef|
+    chef.version = '12.10.40'
     chef.json = {
       mysql: {
         server_root_password: 'rootpass',
