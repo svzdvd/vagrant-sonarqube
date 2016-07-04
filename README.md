@@ -9,7 +9,7 @@ You must installed on your host machine:
 
 1. [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 2. [Vagrant](https://www.vagrantup.com/downloads.html)
-3. [Berkshelf](http://berkshelf.com/)
+3. [ChefDK](https://downloads.chef.io/chef-dk/)
 4. [vagrant-berfkshelf plugin](https://github.com/berkshelf/vagrant-berkshelf)
 
 ## Using SonarQube
