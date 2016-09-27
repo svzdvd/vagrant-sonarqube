@@ -12,6 +12,7 @@ include_recipe 'java'
 
 mysql_service 'sonar' do
   version '5.6'
+  package_version '5.6.33-0ubuntu0.14.04.1'
   initial_root_password 'root'
   action [:create, :start]
 end
